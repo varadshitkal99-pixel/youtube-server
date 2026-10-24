@@ -1,4 +1,16 @@
+yotube/
+yotube/
+
 node_modules/
 .env
 .env.*
 !.env.example
+yotube/
+server/
+
+node_modules/
+.env
+.env.*
+!.env.example
+yotube/
+server/
